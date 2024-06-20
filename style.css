@@ -1,0 +1,35 @@
+h1 {
+   color: ;
+   font-size: ;
+   font-family: sans-serif;
+   letter-spacing: 1.2em;
+   border-bottom: solid 3px rgb( 115, 115, 114);
+   text-shadow: 2px 2px 3px black;
+   text-align: center;
+}
+
+h2 { 
+   color: ;
+   font-size: ;
+   font-family:"Arial", "Meiryo", sans-serif;
+   text-align:center ;
+}
+
+p  {
+   color: ;
+   font-size: ;
+   font-family:"Arial", "Meiryo", sans-serif;
+   text-align: center;
+}
+
+.text-pink {
+  color: rgb(255, 192, 203);
+}
+
+.text-lightblue{
+  color: #b2cbe4;
+}
+
+.text-weight{
+  font-weight: bold;
+}
